@@ -1,16 +1,38 @@
-## Hi there 👋
+about_me = {
+    "name": {
+        "first": "Raj",
+        "last": "Ghosh",
+        "pronouns": "he/him",
+    },
+    "grind": {
+        "current_build": "CoalGroves.com 🌱 — empowering farmers, restoring ecosystems, driving carbon value",
+        "why": "helping farmers grow and glow 🌾",
+    },
+    "journey": {
+        "leveling_up": [
+            "becoming a better chronicler ✍️",
+            "KaiRos literature reader 📚",
+            "learning how to get a Heart Drop 💧",
+            "processing the broken essence 🕊️",
+        ]
+    },
+    "values": [
+        "the bold ones make the splash 💥",
+        "talking to new humans = love it 🗣️",
+        "spirit mode always on — all love & devotion to Krsna 🙏",
+        "align with people who elevate your game 🔥",
+        "effective communication >>>>",
+        "introvert core: recharge solo, impact maxed when needed ⚡",
+    ],
+    "interests": [
+        "solo singing 🎤",
+        "blood lantern vibes 🩸🕯️",
+        "stories with bittersweet endings 📖",
+        "helping disabled kids & supporting the elderly 🤝",
+    ],
+    "socials": {
+        "linkedin": "linkedin.com/in/rajarshighosh7329",
+        "email": "rajarshi2302@gmail.com",
+    },
+}
 
-<!--
-**rajghosh7329/rajghosh7329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
